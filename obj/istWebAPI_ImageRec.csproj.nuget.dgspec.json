@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\istwebapiworking\\istWebAPI_ImageRec\\istWebAPI_ImageRec\\istWebAPI_ImageRec.csproj": {}
+    "C:\\iStreamsERPCloudAll\\iStAPI_Image\\istWebAPI_ImageRec.csproj": {}
   },
   "projects": {
-    "D:\\istwebapiworking\\istWebAPI_ImageRec\\istWebAPI_ImageRec\\istWebAPI_ImageRec.csproj": {
+    "C:\\iStreamsERPCloudAll\\iStAPI_Image\\istWebAPI_ImageRec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\istwebapiworking\\istWebAPI_ImageRec\\istWebAPI_ImageRec\\istWebAPI_ImageRec.csproj",
+        "projectUniqueName": "C:\\iStreamsERPCloudAll\\iStAPI_Image\\istWebAPI_ImageRec.csproj",
         "projectName": "istWebAPI_ImageRec",
-        "projectPath": "D:\\istwebapiworking\\istWebAPI_ImageRec\\istWebAPI_ImageRec\\istWebAPI_ImageRec.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\istwebapiworking\\istWebAPI_ImageRec\\istWebAPI_ImageRec\\obj\\",
+        "projectPath": "C:\\iStreamsERPCloudAll\\iStAPI_Image\\istWebAPI_ImageRec.csproj",
+        "packagesPath": "C:\\Users\\Mubarak Ali\\.nuget\\packages\\",
+        "outputPath": "C:\\iStreamsERPCloudAll\\iStAPI_Image\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mubarak Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,6 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Mubarak Ali\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -78,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -52,7 +52,8 @@ namespace istWebAPI_ImageRec.Controllers
             }
 
             // Path to Python script and Python executable
-            string pythonScriptPath = @"C:\iStImageProcessAPI\face.py";
+            string apiRunningLocation = AppContext.BaseDirectory;
+            string pythonScriptPath = AppContext.BaseDirectory; //@"C:\iStImageProcessAPI\face.py";
             string pythonExePath = GlobalVariables.pythonExePath; // Ensure this is correctly set
 
             // Ensure Python script exists

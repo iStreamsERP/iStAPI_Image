@@ -9,6 +9,6 @@
         public static string pythonPath = "C:/my_python_scripts;" + pythonHome + "/Lib/site-packages";
        public static string pythonDll = pythonHome + "/python310.dll";
        public static string pythonExePath = pythonHome + "/python.exe"; //py.exe  or python.exe Ensure this path is correct
-       public static string ImageStorageRootLocation = "c:/";
+        public static string ImageStorageRootLocation = AppContext.BaseDirectory; //"c:/";
     }
 }
