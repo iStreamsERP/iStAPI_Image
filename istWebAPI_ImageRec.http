@@ -1,0 +1,6 @@
+@istWebAPI_ImageRec_HostAddress = http://localhost:5009
+
+GET {{istWebAPI_ImageRec_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

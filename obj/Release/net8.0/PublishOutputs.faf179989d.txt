@@ -1,0 +1,12 @@
+C:\Users\hp\Documents\GitHub\istWebAPI_ImageRec\obj\Release\net8.0\PubTmp\Out\istWebAPI_ImageRec.exe
+C:\Users\hp\Documents\GitHub\istWebAPI_ImageRec\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\hp\Documents\GitHub\istWebAPI_ImageRec\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\hp\Documents\GitHub\istWebAPI_ImageRec\obj\Release\net8.0\PubTmp\Out\istWebAPI_ImageRec.dll
+C:\Users\hp\Documents\GitHub\istWebAPI_ImageRec\obj\Release\net8.0\PubTmp\Out\istWebAPI_ImageRec.deps.json
+C:\Users\hp\Documents\GitHub\istWebAPI_ImageRec\obj\Release\net8.0\PubTmp\Out\istWebAPI_ImageRec.runtimeconfig.json
+C:\Users\hp\Documents\GitHub\istWebAPI_ImageRec\obj\Release\net8.0\PubTmp\Out\istWebAPI_ImageRec.pdb
+C:\Users\hp\Documents\GitHub\istWebAPI_ImageRec\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\hp\Documents\GitHub\istWebAPI_ImageRec\obj\Release\net8.0\PubTmp\Out\Python.Runtime.dll
+C:\Users\hp\Documents\GitHub\istWebAPI_ImageRec\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Documents\GitHub\istWebAPI_ImageRec\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Documents\GitHub\istWebAPI_ImageRec\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

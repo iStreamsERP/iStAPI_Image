@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\istWebAPI_ImageRec.props" />
+</Project>
